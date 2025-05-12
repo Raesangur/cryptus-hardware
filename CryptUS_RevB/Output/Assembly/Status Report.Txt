@@ -1,0 +1,10 @@
+Output: Save As/Export PCB
+Type  : Universal Exporter
+From  : PCB Document [CryptUS_RevB_PCB.PcbDoc]
+   Generated File[CryptUS_RevB_ASM.PcbDoc]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:52:42 On 2025-05-12

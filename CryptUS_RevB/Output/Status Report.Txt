@@ -1,0 +1,38 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [CryptUS_RevB.PrjPcb]
+   Generated File[CryptUS_RevB_PCB.GTO]
+   Generated File[CryptUS_RevB_PCB.GTP]
+   Generated File[CryptUS_RevB_PCB.GTS]
+   Generated File[CryptUS_RevB_PCB.GTL]
+   Generated File[CryptUS_RevB_PCB.G1]
+   Generated File[CryptUS_RevB_PCB.G2]
+   Generated File[CryptUS_RevB_PCB.G3]
+   Generated File[CryptUS_RevB_PCB.G4]
+   Generated File[CryptUS_RevB_PCB.G5]
+   Generated File[CryptUS_RevB_PCB.G6]
+   Generated File[CryptUS_RevB_PCB.GBL]
+   Generated File[CryptUS_RevB_PCB.GBS]
+   Generated File[CryptUS_RevB_PCB.GBP]
+   Generated File[CryptUS_RevB_PCB.GBO]
+   Generated File[CryptUS_RevB_PCB.GM1]
+   Generated File[CryptUS_RevB_PCB.GM2]
+   Generated File[CryptUS_RevB_PCB.GM3]
+   Generated File[CryptUS_RevB_PCB.GM4]
+   Generated File[CryptUS_RevB_PCB.GM5]
+   Generated File[CryptUS_RevB_PCB.GM8]
+   Generated File[CryptUS_RevB_PCB.GM9]
+   Generated File[CryptUS_RevB_PCB.GM12]
+   Generated File[CryptUS_RevB_PCB.GM13]
+   Generated File[CryptUS_RevB_PCB.GM14]
+   Generated File[CryptUS_RevB_PCB.GM15]
+   Generated File[CryptUS_RevB_PCB.GM16]
+   Generated File[CryptUS_RevB_PCB.GM]
+   Generated File[CryptUS_RevB_PCB.EXTREP]
+   Generated File[CryptUS_RevB_PCB.REP]
+
+
+Files Generated   : 29
+Documents Printed : 0
+
+Finished Output Generation At 11:53:42 On 2025-05-12

@@ -1,0 +1,184 @@
+Altium Designer Pick and Place Locations
+U:\github\cryptus-hardware\CryptUS_RevB\Output\Assembly\CryptUS_RevB_ASM.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       12-05-25
+Time:       11:52
+Revision:   731e9458c6a8075c0c61c478798f47fc9fac8e56
+Variant:    CRYPTUS
+Units used: mil
+
+Designator Comment                              Layer       Footprint          Center-X(mil) Center-Y(mil) Rotation Description                                                                       
+J4_2       UJ31-CH-G2-SMT-TR                    TopLayer    UJ31-CH-G2-SMT-TR  13673.661     7847.165      90       "Type C, USB 3.1 Gen 2, 5 A, Right Angle, Surface Mount _SMT_, USB Receptacle"    
+J4_1       UJ31-CH-G2-SMT-TR                    TopLayer    UJ31-CH-G2-SMT-TR  13673.662     7310.268      90       "Type C, USB 3.1 Gen 2, 5 A, Right Angle, Surface Mount _SMT_, USB Receptacle"    
+J3_2       5607-4200-SH                         TopLayer    5607-4200-SH       12240.000     6223.575      180      "7 Position SATA Plug Connector Solder Surface Mount, Right Angle"                
+J3_1       5607-4200-SH                         TopLayer    5607-4200-SH       13010.000     6223.575      180      "7 Position SATA Plug Connector Solder Surface Mount, Right Angle"                
+FB4        MPZ1005S900HT000                     TopLayer    IND_0402           14915.000     7915.000      0        "90 Ohms @ 100 MHz 1 Power Line Ferrite Bead 0402 (1005 Metric) 2.3A 38mOhm"      
+FB2        MPZ1005S900HT000                     TopLayer    IND_0402           15014.685     8094.686      0        "90 Ohms @ 100 MHz 1 Power Line Ferrite Bead 0402 (1005 Metric) 2.3A 38mOhm"      
+C85        10nF                                 BottomLayer CAP_0201           12538.626     7422.253      270      "Generic SMT Ceramic Capacitor"                                                   
+C84        10nF                                 BottomLayer CAP_0201           12494.084     7377.711      0        "Generic SMT Ceramic Capacitor"                                                   
+C83        10nF                                 BottomLayer CAP_0201           12427.271     7310.898      270      "Generic SMT Ceramic Capacitor"                                                   
+C82        100nF                                BottomLayer CAP_0402           12337.626     7287.374      135      "Generic SMT Ceramic Capacitor"                                                   
+C81        10nF                                 BottomLayer CAP_0201           12405.000     7511.337      180      "Generic SMT Ceramic Capacitor"                                                   
+C80        10nF                                 BottomLayer CAP_0201           12405.000     7580.000      45       "Generic SMT Ceramic Capacitor"                                                   
+C79        10nF                                 BottomLayer CAP_0201           12338.187     7578.151      270      "Generic SMT Ceramic Capacitor"                                                   
+C78        100nF                                BottomLayer CAP_0402           12357.626     7532.626      225      "Generic SMT Ceramic Capacitor"                                                   
+C77        10nF                                 BottomLayer CAP_0201           12226.831     7466.795      0        "Generic SMT Ceramic Capacitor"                                                   
+C76        10nF                                 BottomLayer CAP_0201           12230.000     7400.000      225      "Generic SMT Ceramic Capacitor"                                                   
+C75        10nF                                 BottomLayer CAP_0201           12293.645     7399.982      90       "Generic SMT Ceramic Capacitor"                                                   
+C74        100nF                                BottomLayer CAP_0402           12275.000     7445.000      45       "Generic SMT Ceramic Capacitor"                                                   
+C73        10nF                                 BottomLayer CAP_0201           12293.645     7355.440      180      "Generic SMT Ceramic Capacitor"                                                   
+C72        10nF                                 BottomLayer CAP_0201           12338.187     7355.440      270      "Generic SMT Ceramic Capacitor"                                                   
+C71        10nF                                 BottomLayer CAP_0201           12338.187     7399.982      180      "Generic SMT Ceramic Capacitor"                                                   
+C70        10nF                                 BottomLayer CAP_0201           12405.000     7466.795      90       "Generic SMT Ceramic Capacitor"                                                   
+C69        10nF                                 BottomLayer CAP_0201           12449.542     7466.795      0        "Generic SMT Ceramic Capacitor"                                                   
+C68        10nF                                 BottomLayer CAP_0201           12449.542     7511.337      90       "Generic SMT Ceramic Capacitor"                                                   
+C67        100nF                                BottomLayer CAP_0402           12395.000     7410.000      315      "Generic SMT Ceramic Capacitor"                                                   
+C66        100nF                                BottomLayer CAP_0402           12345.000     7460.000      135      "Generic SMT Ceramic Capacitor"                                                   
+C65        10nF                                 BottomLayer CAP_0201           12182.289     7466.795      270      "Generic SMT Ceramic Capacitor"                                                   
+C64        10nF                                 BottomLayer CAP_0201           12182.289     7511.337      180      "Generic SMT Ceramic Capacitor"                                                   
+C63        10nF                                 BottomLayer CAP_0201           12226.831     7511.337      270      "Generic SMT Ceramic Capacitor"                                                   
+C62        10nF                                 BottomLayer CAP_0201           12293.645     7578.151      0        "Generic SMT Ceramic Capacitor"                                                   
+C61        10nF                                 BottomLayer CAP_0201           12293.645     7622.693      90       "Generic SMT Ceramic Capacitor"                                                   
+C60        10nF                                 BottomLayer CAP_0201           12338.187     7622.693      0        "Generic SMT Ceramic Capacitor"                                                   
+C59        100nF                                BottomLayer CAP_0402           12235.000     7570.000      135      "Generic SMT Ceramic Capacitor"                                                   
+C58        100nF                                BottomLayer CAP_0402           12285.000     7520.000      315      "Generic SMT Ceramic Capacitor"                                                   
+C57        10nF                                 BottomLayer CAP_0201           12583.169     7422.253      270      "Generic SMT Ceramic Capacitor"                                                   
+C56        10nF                                 BottomLayer CAP_0201           12360.458     7199.542      270      "Generic SMT Ceramic Capacitor"                                                   
+C55        10nF                                 BottomLayer CAP_0201           12360.458     7244.084      0        "Generic SMT Ceramic Capacitor"                                                   
+C54        100nF                                BottomLayer CAP_0402           12507.374     7462.374      225      "Generic SMT Ceramic Capacitor"                                                   
+C51        470nF                                TopLayer    CAP_0402           15545.000     7915.000      0        "Generic SMT Ceramic Capacitor"                                                   
+C50        4.7uF                                TopLayer    CAP_0805           15425.000     7860.000      90       "Generic SMT Ceramic Capacitor"                                                   
+C49        4.7uF                                TopLayer    CAP_0805           15295.000     7860.000      90       "Generic SMT Ceramic Capacitor"                                                   
+C48        100nF                                TopLayer    CAP_0402           15165.000     7915.000      0        "Generic SMT Ceramic Capacitor"                                                   
+C47        4.7uF                                TopLayer    CAP_0805           15045.000     7860.000      90       "Generic SMT Ceramic Capacitor"                                                   
+C46        100uF                                TopLayer    100ZLH100MEFC10X20 13520.000     9105.000      90       "CAP 100uF 20% 100V T/H"                                                          
+C45        47uF                                 TopLayer    CAP_1206           13070.000     8770.000      270      "Generic SMT Ceramic Capacitor"                                                   
+C44        4.7uF                                TopLayer    CAP_0805           12980.000     8785.000      270      "Generic SMT Ceramic Capacitor"                                                   
+C43        4.7uF                                TopLayer    CAP_0805           12900.000     8785.000      270      "Generic SMT Ceramic Capacitor"                                                   
+C42        470nF                                BottomLayer CAP_0402           13030.000     9080.000      0        "Generic SMT Ceramic Capacitor"                                                   
+U7         AD9235BCPZRL7-40                     TopLayer    AD9235BCPZRL7-40   4093.248      7420.000      0        "Parallel 12 Bit ADC 40MSPS 1 Input Diff"                                         
+U6         MAX11643EEGT                         TopLayer    MAX11643EEG+       4106.870      7855.250      0        "8 Bit Analog to Digital Converter 16 Input 1 SAR 24-QSOP"                        
+U5         AOZ2255LQI-31                        TopLayer    AOZ2255LQI-31      13138.925     9395.075      270      "Buck Switching Regulator IC Positive Adjustable 0.6V 1 Output 12A 22-PowerVFQFN" 
+R41        500K                                 TopLayer    RES_0402           13235.000     9660.000      0        Resistor                                                                          
+R40        2K2                                  TopLayer    RES_0603           13125.000     9660.000      0        Resistor                                                                          
+R39        300R                                 TopLayer    RES_0603           12935.000     9175.000      90       Resistor                                                                          
+R38        2K2                                  TopLayer    RES_0603           13005.000     9120.000      90       Resistor                                                                          
+R37        500K                                 TopLayer    RES_0402           13140.000     9750.000      270      Resistor                                                                          
+R36        75K                                  TopLayer    RES_0402           13095.000     9750.000      90       Resistor                                                                          
+R35        10mR                                 BottomLayer RES_2512           12915.000     8970.000      0        Resistor                                                                          
+R34        1M                                   TopLayer    RES_0402           11610.000     9115.000      270      Resistor                                                                          
+L4         B82559B0203A016                      BottomLayer B82559B0203A016    13030.000     9475.000      180      "20uH Shielded 10A Inductor"                                                      
+C41        470nF                                TopLayer    CAP_0402           13025.000     9392.500      270      "Generic SMT Ceramic Capacitor"                                                   
+C40        4.7uF                                TopLayer    CAP_0805           13010.000     9505.000      90       "Generic SMT Ceramic Capacitor"                                                   
+C39        4.7uF                                TopLayer    CAP_0805           12935.000     9505.000      90       "Generic SMT Ceramic Capacitor"                                                   
+C38        47uF                                 TopLayer    CAP_1206           13145.000     9540.000      0        "Generic SMT Ceramic Capacitor"                                                   
+C37        100nF                                TopLayer    CAP_0402           13273.000     9476.000      0        "Generic SMT Ceramic Capacitor"                                                   
+C36        220pF                                TopLayer    CAP_0402           13255.000     9750.195      270      "Generic SMT Ceramic Capacitor"                                                   
+C35        4.7uF                                TopLayer    CAP_0805           13313.000     9416.000      0        "Generic SMT Ceramic Capacitor"                                                   
+C34        220pF                                TopLayer    CAP_0402           13210.000     9750.000      90       "Generic SMT Ceramic Capacitor"                                                   
+C33        100nF                                TopLayer    CAP_0402           13270.000     9340.000      90       "Generic SMT Ceramic Capacitor"                                                   
+U1         "Lattice ECP-5 - LFE5UM-45F-8BG381C" TopLayer    CABGA-381          12315.916     7489.066      45       "IC FPGA 203 I/O 381CABGA"                                                        
+D11        DONE                                 TopLayer    LED_0402           6930.000      5235.000      0        "Generic LED"                                                                     
+D9         BAV99                                TopLayer    MMBD7000-7-F       9104.000      6198.500      0        "DIODE ARRAY GP 75V 300MA SOT23-3"                                                
+D8         BAV99                                TopLayer    MMBD7000-7-F       8645.000      6196.500      0        "DIODE ARRAY GP 75V 300MA SOT23-3"                                                
+D7         BAV99                                TopLayer    MMBD7000-7-F       8200.000      6191.500      0        "DIODE ARRAY GP 75V 300MA SOT23-3"                                                
+D6         BAV99                                TopLayer    MMBD7000-7-F       7710.000      6196.500      0        "DIODE ARRAY GP 75V 300MA SOT23-3"                                                
+D5         BAV99                                TopLayer    MMBD7000-7-F       7224.000      6208.500      0        "DIODE ARRAY GP 75V 300MA SOT23-3"                                                
+D4         BAV99                                TopLayer    MMBD7000-7-F       6765.000      6227.500      0        "DIODE ARRAY GP 75V 300MA SOT23-3"                                                
+D3         BAV99                                TopLayer    MMBD7000-7-F       6215.000      6207.500      0        "DIODE ARRAY GP 75V 300MA SOT23-3"                                                
+U4         S25FS512SAGNFI010                    TopLayer    s25FL256LAGNFV010  6450.000      9257.500      90       "FLASH - NOR Memory IC 512Mb (64M x 8) SPI - Quad I/O, QPI 133 MHz 8-WSON (6x8)"  
+U3         "TG2520SMN 50.0000M-MCGNNM3"         TopLayer    TG2520SMN          6410.213      8630.000      90       "50 MHz TCXO Clipped Sine Wave Oscillator 2.8V ~ 3.3V - 4-SMD, No Lead"           
+U2         MAX6372KA+T                          TopLayer    SOT23-8            6365.000      7828.205      0        "Watchdog Push-Pull, Totem Pole 1 Channel SOT-23-8"                               
+SW1        RESET                                TopLayer    KMR621NGLFS        7595.000      5395.000      90       "Tactile Switch SPST-NO Top Actuated Surface Mount"                               
+R33        0R                                   BottomLayer RES_0603           6495.000      7735.000      270      Resistor                                                                          
+R32        0R                                   BottomLayer RES_0603           6565.000      8135.000      90       Resistor                                                                          
+R31        0R                                   BottomLayer RES_0603           6485.000      8135.000      90       Resistor                                                                          
+R30        100R                                 TopLayer    RES_0402           6355.000      7965.000      90       Resistor                                                                          
+R29        4K7                                  TopLayer    RES_0603           6495.000      7735.000      90       Resistor                                                                          
+R28        4K7                                  TopLayer    RES_0603           6565.000      8135.000      270      Resistor                                                                          
+R27        4K7                                  TopLayer    RES_0603           6485.000      8135.000      270      Resistor                                                                          
+R26        4K7                                  TopLayer    RES_0603           8205.000      5440.000      90       Resistor                                                                          
+R25        0R                                   TopLayer    RES_0603           7050.000      5440.000      90       Resistor                                                                          
+R24        0R                                   TopLayer    RES_0603           6800.000      5440.000      90       Resistor                                                                          
+R23        0R                                   TopLayer    RES_0603           6550.000      5440.000      90       Resistor                                                                          
+R22        300R                                 TopLayer    RES_0603           6760.000      5705.000      90       Resistor                                                                          
+R21        4K7                                  TopLayer    RES_0603           7135.000      5705.000      90       Resistor                                                                          
+R20        4K7                                  TopLayer    RES_0603           7005.000      5705.000      90       Resistor                                                                          
+R19        4K7                                  TopLayer    RES_0603           6885.000      5705.000      90       Resistor                                                                          
+R18        1K                                   TopLayer    RES_0603           7845.000      5705.000      90       Resistor                                                                          
+R17        300R                                 TopLayer    RES_0603           8125.000      5705.000      90       Resistor                                                                          
+R16        300R                                 TopLayer    RES_0603           8380.000      5705.000      90       Resistor                                                                          
+R15        4K7                                  TopLayer    RES_0603           9030.000      6540.000      90       Resistor                                                                          
+R14        4K7                                  TopLayer    RES_0603           8570.000      6480.000      90       Resistor                                                                          
+R13        4K7                                  TopLayer    RES_0603           8155.000      6540.000      90       Resistor                                                                          
+R12        4K7                                  TopLayer    RES_0603           7765.000      6440.000      90       Resistor                                                                          
+R11        4K7                                  TopLayer    RES_0603           7280.000      6473.543      90       Resistor                                                                          
+R10        4K7                                  TopLayer    RES_0603           6770.000      6490.000      90       Resistor                                                                          
+R9         4K7                                  TopLayer    RES_0603           6275.000      6495.000      90       Resistor                                                                          
+R8         4K7                                  TopLayer    RES_0603           7625.000      6443.543      90       Resistor                                                                          
+R7         4K7                                  TopLayer    RES_0603           7170.000      6475.000      90       Resistor                                                                          
+R6         4K7                                  TopLayer    RES_0603           6645.000      6498.543      90       Resistor                                                                          
+R5         4K7                                  TopLayer    RES_0603           6135.000      6435.000      90       Resistor                                                                          
+Q2         DMN6140L-7                           TopLayer    SOT23-3            7772.500      5435.000      0        "N-Channel 60 V 1.6A (Ta) 700mW (Ta) Surface Mount SOT-23"                        
+J2         SSM-110-L-SV                         TopLayer    SSM-110-L-SV       6515.000      7325.000      180      "CONN RCPT 10POS 0.1 GOLD SMD"                                                    
+FB1        MPZ1005S900HT000                     TopLayer    IND_0402           6380.000      8490.000      90       "90 Ohms @ 100 MHz 1 Power Line Ferrite Bead 0402 (1005 Metric) 2.3A 38mOhm"      
+D12        STATUS                               TopLayer    LED_0402           7440.000      5480.000      0        "Generic LED"                                                                     
+D10        HRTBT                                TopLayer    LED_0402           8255.000      5745.000      0        "Generic LED"                                                                     
+C32        100nF                                TopLayer    CAP_0402           6315.000      9460.000      180      "Generic SMT Ceramic Capacitor"                                                   
+C31        100nF                                TopLayer    CAP_0402           6305.000      9400.000      270      "Generic SMT Ceramic Capacitor"                                                   
+C30        100nF                                TopLayer    CAP_0402           6275.000      7952.500      90       "Generic SMT Ceramic Capacitor"                                                   
+C29        100nF                                TopLayer    CAP_0402           6275.000      7880.000      270      "Generic SMT Ceramic Capacitor"                                                   
+C28        100nF                                TopLayer    CAP_0402           6340.000      8490.000      90       "Generic SMT Ceramic Capacitor"                                                   
+C27        47nF                                 TopLayer    CAP_0201           6340.000      8621.000      90       "Generic SMT Ceramic Capacitor"                                                   
+C26        220pF                                TopLayer    CAP_0402           6360.316      8549.999      180      "Generic SMT Ceramic Capacitor"                                                   
+C25        100nF                                TopLayer    CAP_0402           6435.316      8549.999      0        "Generic SMT Ceramic Capacitor"                                                   
+C24        4.7uF                                BottomLayer CAP_0805           6420.000      8620.000      90       "Generic SMT Ceramic Capacitor"                                                   
+C23        47uF                                 BottomLayer CAP_1206           6505.000      8635.000      90       "Generic SMT Ceramic Capacitor"                                                   
+C22        220pF                                TopLayer    CAP_0402           7305.000      5485.000      0        "Generic SMT Ceramic Capacitor"                                                   
+C21        100nF                                TopLayer    CAP_0402           7935.000      5485.000      0        "Generic SMT Ceramic Capacitor"                                                   
+C20        100nF                                TopLayer    CAP_0402           7180.000      5485.000      0        "Generic SMT Ceramic Capacitor"                                                   
+C19        100nF                                TopLayer    CAP_0402           6930.000      5485.000      0        "Generic SMT Ceramic Capacitor"                                                   
+C18        100nF                                TopLayer    CAP_0402           6680.000      5485.000      0        "Generic SMT Ceramic Capacitor"                                                   
+C17        100nF                                TopLayer    CAP_0402           9147.500      6500.000      0        "Generic SMT Ceramic Capacitor"                                                   
+C16        100nF                                TopLayer    CAP_0402           8745.000      6435.000      0        "Generic SMT Ceramic Capacitor"                                                   
+C15        100nF                                TopLayer    CAP_0402           8255.000      6445.000      0        "Generic SMT Ceramic Capacitor"                                                   
+C14        100nF                                TopLayer    CAP_0402           7062.500      7385.000      0        "Generic SMT Ceramic Capacitor"                                                   
+C13        100nF                                TopLayer    CAP_0402           7062.500      7345.000      0        "Generic SMT Ceramic Capacitor"                                                   
+C12        100uF                                TopLayer    100ZLH100MEFC10X20 12600.000     9530.000      90       "CAP 100uF 20% 100V T/H"                                                          
+F1         0297010.WXNV                         TopLayer    0297010.WXNV       -1965.000     -10.000       0        "FUSE AUTO 10A 32V BLADE MINI"                                                    
+R4         100K                                 BottomLayer RES_0603           11200.000     9590.000      90       Resistor                                                                          
+R3         1M                                   TopLayer    RES_0402           13845.000     9485.000      0        Resistor                                                                          
+R2         1M                                   TopLayer    RES_0402           13847.500     6450.000      0        Resistor                                                                          
+R1         1M                                   TopLayer    RES_0402           10092.500     6450.000      180      Resistor                                                                          
+Q1         FQD11P06TM                           BottomLayer FQD11P06TM         11368.345     9418.000      0        "MOSFET P-CH 60V 9.4A DPAK"                                                       
+L3         744314150                            TopLayer    744314150          12165.000     9710.000      180      "FIXED IND 1.5UH 13A 4.3 MOHM SMD"                                                
+L2         PLT10HH501100PNL                     TopLayer    PLT10HH501100PNL   11750.000     9555.000      90       "2 Line Common Mode Choke Surface Mount 500 Ohms @ 10MHz 10A DCR 4.1mOhm"         
+L1         744314150                            TopLayer    744314150          12165.000     9355.000      0        "FIXED IND 1.5UH 13A 4.3 MOHM SMD"                                                
+J1         "2 POS TERM BLOCK"                   TopLayer    TERM-2_90_100MIL   10227.500     9240.000      90       ""                                                                                
+F2         3568                                 TopLayer    3568               10795.000     9205.000      0        "FUSE HOLDER BLADE"                                                               
+D2         5.0SMDJ22CA                          TopLayer    DO214AB_(SMC)      11032.500     9687.000      90       "TVS Diode 24.4V"                                                                 
+D1         5.0SMDJ22CA                          TopLayer    DO214AB_(SMC)      10757.500     9687.000      90       "TVS Diode 24.4V"                                                                 
+C11        47uF                                 BottomLayer CAP_1206           12218.507     9554.995      90       "Generic SMT Ceramic Capacitor"                                                   
+C10        47uF                                 BottomLayer CAP_1206           12313.507     9554.995      90       "Generic SMT Ceramic Capacitor"                                                   
+C9         47uF                                 BottomLayer CAP_1206           12408.507     9554.995      90       "Generic SMT Ceramic Capacitor"                                                   
+C8         47uF                                 BottomLayer CAP_1206           12503.507     9554.995      90       "Generic SMT Ceramic Capacitor"                                                   
+C7         47uF                                 BottomLayer CAP_1206           11940.000     9555.000      90       "Generic SMT Ceramic Capacitor"                                                   
+C6         47uF                                 TopLayer    CAP_1206           11500.000     9555.000      90       "Generic SMT Ceramic Capacitor"                                                   
+C5         220nF                                BottomLayer CAP_1812           10685.000     9687.000      90       "Generic SMT Ceramic Capacitor"                                                   
+C4         220nF                                BottomLayer CAP_1812           10960.000     9687.000      90       "Generic SMT Ceramic Capacitor"                                                   
+C3         220nF                                TopLayer    CAP_1812           13800.000     9345.000      270      "Generic SMT Ceramic Capacitor"                                                   
+C2         220nF                                TopLayer    CAP_1812           13800.000     6591.000      90       "Generic SMT Ceramic Capacitor"                                                   
+C1         220nF                                TopLayer    CAP_1812           10140.000     6591.000      90       "Generic SMT Ceramic Capacitor"                                                   
+MT4        M3                                   TopLayer    MTH_M3             13677.008     9677.009      0        ""                                                                                
+MT3        M3                                   TopLayer    MTH_M3             13677.008     6259.999      0        ""                                                                                
+MT1        M3                                   TopLayer    MTH_M3             10260.000     9677.008      0        ""                                                                                
+MT2        M3                                   TopLayer    MTH_M3             10260.000     6260.000      0        ""                                                                                
+FD6        FIDUCIAL                             BottomLayer FIDUCIAL           13455.000     6115.000      180      ""                                                                                
+FD5        FIDUCIAL                             BottomLayer FIDUCIAL           13455.000     9820.000      180      ""                                                                                
+FD4        FIDUCIAL                             BottomLayer FIDUCIAL           10485.000     9820.000      180      ""                                                                                
+FD3        FIDUCIAL                             TopLayer    FIDUCIAL           13455.000     6115.000      0        ""                                                                                
+FD2        FIDUCIAL                             TopLayer    FIDUCIAL           13455.000     9820.000      0        ""                                                                                
+FD1        FIDUCIAL                             TopLayer    FIDUCIAL           10485.000     9820.000      0        ""                                                                                
